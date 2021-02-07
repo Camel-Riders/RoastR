@@ -6,11 +6,14 @@
 
 1. Fork the repository
 2. Clone your forked version git clone git@github.com:<YOUR-USERNAME>/RoastR.git
-3. Install latest version of python
-4. Open cmd and install `Django`
+3. Find the folder that you forked
+
+#### Some installation needed
+1. Install latest version of python
+2. Open cmd and install `Django`
 - Guide: <a href="https://docs.djangoproject.com/en/3.1/intro/install/">https://docs.djangoproject.com/en/3.1/intro/install/</a>
   
-5. Go to the project folder
+3. Go to the project folder
 ```
   Example:
   - cd Desktop
