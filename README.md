@@ -4,6 +4,7 @@
 2. Clone your forked version git clone git@github.com:<YOUR-USERNAME>/RoastR.git
 3. Install latest version of python
 4. Open cmd to install `Django`
+5. Go to the project folder
 ```
   Example:
   - cd Desktop
