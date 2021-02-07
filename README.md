@@ -1,5 +1,9 @@
 **RoastR** is a social platform which allows users to post the greatest form of entertainment. It would work as a type of twitter-clone or just a post-it app type which would server for people posting self-roasting comments
 
+<img src="https://user-images.githubusercontent.com/73097560/107154554-7601fd80-69ae-11eb-8757-369c9efa7ee5.png" width="75%">
+
+<hr/>
+
 1. Fork the repository
 2. Clone your forked version git clone git@github.com:<YOUR-USERNAME>/RoastR.git
 3. Install latest version of python
