@@ -11,8 +11,14 @@
   - cd Project_Hackathon
 ```
   
-  #### To run the app
+#### To run the app
   Enter on the command prompt: 
   ```
   python manage.py runserver
   ```
+
+#### Copy the local host and run it on browser.
+Example: 
+```
+http://127.0.0.1:8000/
+```
