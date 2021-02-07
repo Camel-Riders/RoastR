@@ -35,3 +35,6 @@ Example:
 ```
 http://127.0.0.1:8000/
 ```
+
+**Done**
+- You can try register on the app, then login and try to make a post. Also you can update your profile
