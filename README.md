@@ -7,12 +7,13 @@
 1. Fork the repository
 2. Clone your forked version git clone git@github.com:<YOUR-USERNAME>/RoastR.git
 3. Find the folder that you forked
-4. Make changes and make a pull request
+4. Commit your changes (write a short descriptive message of what you have done)
   
 #### Get our logo
 <a href="https://github.com/Camel-Riders/branding">https://github.com/Camel-Riders/branding</a>
 
 #### To Do
+- [ ] Change the name of `Project_Hackathon` into RoastR
 - [ ] Add logo on navbar
 - [ ] Landing page
 - Suggest new ideas
